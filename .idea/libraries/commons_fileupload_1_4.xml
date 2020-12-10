@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="commons-fileupload-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../20201208TEST/web/WEB-INF/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../20201208TEST/web/WEB-INF/lib/commons-io-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../20201208TEST/web/WEB-INF/lib/fastjson-1.2.75.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../20201208TEST/web/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../20201208TEST/web/WEB-INF/lib/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../20201208TEST/web/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.5.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>

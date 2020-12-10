@@ -1,0 +1,1 @@
+------WebKitFormBoundaryOszTaotZBrl91kGaContent-Type: text/plain文件上传下载1、input 的 type 设置为 file?      get 请求传输是文件名，get 请求会将文件名传给服务端，而不是文件本身   Servlet

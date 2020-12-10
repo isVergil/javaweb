@@ -1,0 +1,8 @@
+文件上传下载
+JSP
+1、input 的 type 设置为 file
+2、form 表单的 method 必须为 post 
+​      get 请求传输是文件名，get 请求会将文件名传给服务端，而不是文件本身
+3、form 表单的 enctype 设置为 multipart/form-data ,以二进制的形式传输数据
+   Servlet
+

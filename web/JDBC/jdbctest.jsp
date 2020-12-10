@@ -1,0 +1,22 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: bill
+  Date: 2020/12/7
+  Time: 13:20
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+${list}
+<form action="/student" method="post">
+    姓名：<input type="text" name="name"><br>
+    学校：<input type="text" name="school"><br>
+    <input type="submit" value="提交">
+
+</form>
+</body>
+</html>
